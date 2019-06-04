@@ -14,15 +14,13 @@ Take notes! Wherever that may be, commit to a system and stick to it. You know h
 
 Google is your friend. If you don't know what something on this list is, google it. Read about it. Formulate a definition of what it is. Then ask clarifying questions. 
 
-
-
 #### **Recommended Order of Operations:** 
 
 - [ ] Web Browser: chrome and or firefox developer edition 
 - [ ] Online REPLS: repl.it, JSbin, codepen.io
 - [ ] Code Editor: Visual Studio Code or Atom
-- [ ] Window Manager 
+- [ ] Window Manager: Magnet or Spectacle
 - [ ] Terminal Program: iTerm2 or other terminal tool 
-- [ ] Package Manager: homebrew 
+- [ ] Package Manager: homebrew for mac or chocolatey for windows
 - [ ] Version Control: git & Github account
 - [ ] Javascript Interpreter: node 
