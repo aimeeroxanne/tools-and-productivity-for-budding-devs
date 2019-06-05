@@ -20,6 +20,8 @@ Google is your friend. If you don't know what something on this list is, google 
 - [ ] Online REPLS: repl.it, JSbin, codepen.io
 - [ ] Code Editor: Visual Studio Code or Atom
 - [ ] Window Manager: Magnet or Spectacle
+- [ ] Password Manager: Last Pass 
+- [ ] API Testing: Postman
 - [ ] Terminal Program: iTerm2 or other terminal tool 
 - [ ] Package Manager: homebrew for mac or chocolatey for windows
 - [ ] Version Control: git & Github account
